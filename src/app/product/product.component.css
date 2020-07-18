@@ -1,0 +1,35 @@
+table{
+    width: 100%
+}
+
+th.mat-sort-header-sorted {
+    color: black;
+  }
+
+  .square {
+    /* Specify the dimensions of your square here */
+    height: 25px;
+    width: 25px;
+  }
+
+
+
+  .example-form-field {
+    margin: 0 8px 16px 0;
+  }
+
+  form{
+    padding-bottom: 30px;
+  }
+  .primary{
+    background: orange;
+    color: white;
+  }
+  
+  .date-block{
+    display: flex;
+  }
+  .date-block__list{
+    flex-basis: 150px;
+    margin-right: 15px;
+  }
